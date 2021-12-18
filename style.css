@@ -1,4 +1,10 @@
-
+.navinha{
+    line-height: 100px;
+    text-align: center;
+}
+.nome-projeto {
+    float: right;
+}
 section {
     margin-left: 35px;
 }
@@ -18,7 +24,7 @@ body {
 }
 nav {
     height: 100px;
-    width: 3529px;
+    width: 100%;
     background-image: linear-gradient(to right, lightpink, lightskyblue);}
 
 .background {
